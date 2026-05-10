@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bir
+
+This log tracks the cryptographic history and versioning for the song **Bir** (bir).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T10:28:17.780079 | `v1` | `a154afb9fd22bbd8c933488590859c66edd9baa96e7c5211a9668e2bf7ae0a25` | `fc38f0a970c9a043752f4a7d1501d9d6428e5e3e151215ae55590c5a6fe62ce5` | `2026-05-10_bir-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

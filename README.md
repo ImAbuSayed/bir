@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Bir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bir/) |
+| **Get License** | [Get a Licensing Quote for Bir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a154afb9fd22bbd8c933488590859c66edd9baa96e7c5211a9668e2bf7ae0a25` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
