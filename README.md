@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Bir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bir/) |
+| **Get License** | [Obtain a Music License for Bir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> শোনো এই রাতে মন কি যে চায়
+> অচেনা আগুনে আমাকে পোড়ায়
+> কাছে এসো তুমি ভাসি দুজনে
+> প্রেমের এই নীল গভীরে গোপনে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
